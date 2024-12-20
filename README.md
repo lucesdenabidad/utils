@@ -6,7 +6,7 @@ Bienvenido a **utils**, un repositorio donde se recopilan scripts, herramientas 
 
 Actualmente, el repositorio incluye:
 
-- **certbot-redirect.sh**: Un script para configurar redirecciones HTTPS usando Certbot.
+- **certbot-redirect.sh**: Un script para configurar redirecciones usando Certbot.
 
 ## Uso 🛠️
 

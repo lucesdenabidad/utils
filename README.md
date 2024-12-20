@@ -30,19 +30,15 @@ Las contribuciones son bienvenidas. Si tienes un script o herramienta útil que 
 1. Haz un fork del repositorio.
 2. Crea una nueva rama para tus cambios:
    ```bash
-   git checkout -b nombre-de-tu-rama
+   git checkout -b main
    ```
 3. Haz tus modificaciones y realiza un commit:
    ```bash
-   git commit -m "Descripción de los cambios"
+   git commit -m "bla bla bla"
    ```
 4. Envía un pull request.
 
-## Licencia 📜
-
-Este repositorio está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
 ## Contacto 📬
 
 Si tienes preguntas, sugerencias o comentarios, no dudes en abrir un issue o contactar al mantenedor del proyecto.
-

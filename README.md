@@ -1,27 +1,10 @@
 # Utils 🚀
 
-Bienvenido a **utils**, un repositorio donde se recopilan scripts, herramientas y utilidades diversas para facilitar tareas comunes y especializadas. Este repositorio está diseñado para crecer y adaptarse a diferentes necesidades, cubriendo una amplia variedad de propósitos.
-
 ## Contenido del repositorio 📂
 
 Actualmente, el repositorio incluye:
 
 - **certbot-redirect.sh**: Un script para configurar redirecciones usando Certbot.
-
-## Uso 🛠️
-
-### certbot-redirect.sh
-Este script se utiliza para configurar redirecciones de HTTP a HTTPS con Certbot. Sigue estos pasos para usarlo:
-
-1. Asegúrate de tener Certbot instalado.
-2. Descarga el script y dale permisos de ejecución:
-   ```bash
-   chmod +x certbot-redirect.sh
-   ```
-3. Ejecútelo en tu terminal:
-   ```bash
-   ./certbot-redirect.sh
-   ```
 
 ## Contribuciones 🤝
 
